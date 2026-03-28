@@ -1,0 +1,4 @@
+Register 1: Juan Pérez
+Register 2: María García
+Register 1: Juan Pérez
+Register 2: María García
